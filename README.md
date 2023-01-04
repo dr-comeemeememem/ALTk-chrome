@@ -1,2 +1,2 @@
-# StopGuardian
-An anti GoGuardian extention for chrome
+# ALTk chrome extention
+A chrome extention where you can bring ALTk anyware in your browser
